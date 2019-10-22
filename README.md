@@ -1,6 +1,6 @@
 <div align=center>
  
-# Marriage Analysis
+# Japanese Marriage Data Analysis
 
 [**Haoran Su**](http://franklinzhao.top), **Kun Qian, Chenglong Li, Junzhe Shi, Ruxin Yan**
 
